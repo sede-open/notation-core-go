@@ -6,7 +6,7 @@
 
 notation-core-go provides core crypto functionality for notation-go and implements signature generation, parsing and revocation related functionalities based on the [Notary Project specifications](https://github.com/notaryproject/specifications). It also provides validation functionality for certificate and certificate chain.
 
-notation-core-go reached a stable release as of July 2023 and continues to be actively developed and maintained.
+notation-core-go reached a stable release as of July 2023 and continues to be actively developed and maintained
 
 Please visit [README](https://github.com/notaryproject/.github/blob/main/README.md) to know more about Notary Project.
 
